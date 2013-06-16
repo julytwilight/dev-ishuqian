@@ -39,7 +39,7 @@
     			<ul>
     				<li><a href='javascript:void(0)'>首页</a></li>
     				<li><a href='javascript:void(0)'>意见反馈</a></li>
-    				<li><a href='javascript:void(0)'>关于我们</a></li>
+    				<li><a href='javascript:void(0)'>关于我们test</a></li>
     			</ul>
     		</div>
     	</div>
